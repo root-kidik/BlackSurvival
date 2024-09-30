@@ -144,7 +144,7 @@ SpacesInParentheses: false
 SpacesInSquareBrackets: false
 
 # Line endings
-UseCRLF: false
+UseCRLF: true
 
 # Qualifiers (const, volatile, static, etc)
 QualifierAlignment: Custom
